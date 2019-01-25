@@ -9,7 +9,7 @@ Algorithm Container for Zeppelin and Jupiter Notebooks
 
 2. Invoke the Container by choosing `Analytics` on the right sidebar. If Anaconda is not enabled, choose to enable it and wait until all installation scripts are performed
 
-3. Create a Zepellin notebook by
+3. Create a Zeppelin notebook by
 
 3. Copy the dataset's dhfs URL into the field `Set Dataset path`
 
@@ -21,7 +21,7 @@ Algorithm Container for Zeppelin and Jupiter Notebooks
 
 6. `Run` the Analysis
 
-7. You may view the analsysis results in the predefined Zeppelin visualisation charts. Also the results of the analysis are stored back in the AEGIS Data Store in your project's folder
+7. You may view the analysis results in the predefined Zeppelin visualisation charts. Also the results of the analysis are stored back in the AEGIS Data Store in your project's folder
 
 
 # Jupyter Version #
